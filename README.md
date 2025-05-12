@@ -50,5 +50,8 @@ Tengo conocimientos en desarrollo front-end y back-end.
 | ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) | @Yaqui_Sieras94 |
 | ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) | sieras.yaqui@gmail.com |
 
+[![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yaqui-sieras&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10)](https://github.com/yaqui-sieras)
+
 [![](https://github-readme-stats.vercel.app/api?username=yaqui-sieras&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/yaqui-sieras)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=yaqui-sieras&theme=material-palenight)](https://github.com/yaqui-sieras)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=yaqui-sieras&theme=tokyonight&hide_border=true&locale=es)](https://github.com/yaqui-sieras)
+
