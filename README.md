@@ -39,9 +39,9 @@ Tengo conocimientos en desarrollo front-end y back-end.
 | ⚙️ Backend Frameworks       | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white) |
 
 ## 🚀 Proyectos Destacados
-| vista previa  | Nombre | Descripcion |
-| :-----------: | :----: | :---------- |
-|| [Indexeddb](https://github.com/yaqui-sieras/indexeddb) | Pruebas sobre Indexeddb |
+| vista previa  | Nombre | Descripcion | Repositorio |
+| :-----------: | :----: | :---------- | :----------: |
+|| [Agenda](https://yaqui-sieras.github.io/indexeddb) | Pruebas sobre Indexeddb | [Indexeddb](https://github.com/yaqui-sieras/indexeddb) |
    
 ## 📫 Contáctame en :
 
