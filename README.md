@@ -1,4 +1,4 @@
-<h1 style="text-align:center"> Hola, me llamo Yaqui 👋</h1> 
+<h1 align="center"> Hola, me llamo Yaqui 👋</h1> 
 
 ## 👤 Sobre mí
 Soy autodidacta y llevo estudiando desarrollo desde los 19 años. Desde 2023 he podido hacerlo de manera más constante gracias a una mayor estabilidad económica. También he complementado mi aprendizaje con cursos en plataformas como Udemy.
@@ -43,7 +43,7 @@ Tengo conocimientos en desarrollo front-end y back-end.
 | 📦 Frameworks               | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) |
 | ⚙️ Backend Frameworks       | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white) |
  
-## Estado laboral : ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=Freelancer&logoColor=white)
+**Estado laboral :** ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=Freelancer&logoColor=white)
 
 ## 📫 Contáctame en :
 
