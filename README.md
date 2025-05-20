@@ -57,3 +57,5 @@ Tengo conocimientos en desarrollo front-end y back-end.
 [![](https://github-readme-stats.vercel.app/api?username=yaqui-sieras&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&locale=es)](https://github.com/yaqui-sieras)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=yaqui-sieras&theme=tokyonight&hide_border=true&locale=es)](https://github.com/yaqui-sieras)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0954ae,100:0988ae&text=Gracias%20por%20visitar%20mi%20Github!&section=footer&fontColor=f0f0f0&fontSize=40&fontAlign=50&fontAlignY=70&animation=scaleIn&stroke=0f0f0f" width="100%"/>
