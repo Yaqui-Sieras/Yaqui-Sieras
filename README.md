@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, me llamo Yaqui 👋</h1> 
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hola, me llamo Yaqui</h1> 
 
 ## 👤 Sobre mí
 Soy autodidacta y llevo estudiando desarrollo desde los 19 años. Desde 2023 he podido hacerlo de manera más constante gracias a una mayor estabilidad económica. También he complementado mi aprendizaje con cursos en plataformas como Udemy.
