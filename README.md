@@ -1,4 +1,4 @@
-# Hola, me llamo Yaqui 👋 
+<h1 style="text-align:center"> Hola, me llamo Yaqui 👋</h1> 
 
 ## 👤 Sobre mí
 Soy autodidacta y llevo estudiando desarrollo desde los 19 años. Desde 2023 he podido hacerlo de manera más constante gracias a una mayor estabilidad económica. También he complementado mi aprendizaje con cursos en plataformas como Udemy.
@@ -7,8 +7,6 @@ Tengo conocimientos en desarrollo front-end y back-end.
 ## 💞️ Intereses
 - Desarrollo de sofware para la automatizacion y optimizacion del dia a dia
 - Colaborar en proyectos de alto impacto en las vidas de las personas.
-
-## Estado laboral : ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=Freelancer&logoColor=white)
 
 ## 💡 Conocimientos :
 
@@ -22,7 +20,12 @@ Tengo conocimientos en desarrollo front-end y back-end.
 | 🗄️ Bases de datos          | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
 | ☁️ Infraestructura/Cloud            | ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) |
 | 🏗️ IDEs/Editores           | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green) ![CodePen](https://img.shields.io/badge/CodePen-white?style=flat&logo=codepen&logoColor=black) ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=flat&logo=codesandbox&logoColor=DBDBDB) |
-
+ 
+## 🚀 Proyectos Destacados
+| vista previa  | Nombre | Descripcion | Repositorio |
+| :-----------: | :----: | :---------- | :----------: |
+|| [Agenda](https://yaqui-sieras.github.io/indexeddb) | Pruebas sobre Indexeddb | [![indexeddb](https://github-readme-stats.vercel.app/api/pin/?username=yaqui-sieras&repo=indexeddb&theme=tokyonight&hide_border=true)](https://github.com/yaqui-sieras/indexeddb) |
+ 
 ## 🌱 Actualmente estoy aprendiendo
 
 | Categoría                  | Tecnología |
@@ -32,19 +35,16 @@ Tengo conocimientos en desarrollo front-end y back-end.
 | 🔄 Automatización          | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) |
 | 🗄️ Bases de datos          | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) |
 | ☁️ Infraestructura/Cloud   | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) |
-
+ 
 ## 🔍 Tecnologías en mi radar
 
 | Categoría                  | Tecnología |
 | :------------------------- | :---------------------- |
 | 📦 Frameworks               | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) |
 | ⚙️ Backend Frameworks       | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white) |
+ 
+## Estado laboral : ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=Freelancer&logoColor=white)
 
-## 🚀 Proyectos Destacados
-| vista previa  | Nombre | Descripcion | Repositorio |
-| :-----------: | :----: | :---------- | :----------: |
-|| [Agenda](https://yaqui-sieras.github.io/indexeddb) | Pruebas sobre Indexeddb | [![indexeddb](https://github-readme-stats.vercel.app/api/pin/?username=yaqui-sieras&repo=indexeddb&theme=tokyonight&hide_border=true)](https://github.com/yaqui-sieras/indexeddb) |
-   
 ## 📫 Contáctame en :
 
 | Plataforma  | Usuario/Correo |
