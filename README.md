@@ -27,7 +27,7 @@ Tengo conocimientos en desarrollo front-end y back-end.
 || [Agenda](https://yaqui-sieras.github.io/indexeddb) | Pruebas sobre Indexeddb | [![indexeddb](https://github-readme-stats.vercel.app/api/pin/?username=yaqui-sieras&repo=indexeddb&theme=tokyonight&hide_border=true)](https://github.com/yaqui-sieras/indexeddb) |
  
 ## 🌱 Actualmente estoy aprendiendo
-
+ 
 | Categoría                  | Tecnología |
 | :------------------------- | :---------------------- |
 | 📜 Lenguajes               | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |
@@ -52,10 +52,13 @@ Tengo conocimientos en desarrollo front-end y back-end.
 | ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) | @Yaqui_Sieras94 |
 | ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) | sieras.yaqui@gmail.com |
 
-[![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yaqui-sieras&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10&locale=es&layout=compact&custom_title=Lenguajes%20más%20usados)](https://github.com/yaqui-sieras)
+## Estadisticas de Github :
 
-[![](https://github-readme-stats.vercel.app/api?username=yaqui-sieras&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&locale=es)](https://github.com/yaqui-sieras)
-
+[![](https://github-readme-stats.vercel.app/api?username=yaqui-sieras&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/yaqui-sieras)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=yaqui-sieras&theme=tokyonight&hide_border=true&locale=es)](https://github.com/yaqui-sieras)
+
+<a href="https://github.com/yaqui-sieras"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yaqui-sieras&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10&locale=es&layout=compact&custom_title=Lenguajes%20más%20usados" width="50%"/></a>
+
+[//]: <> (&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0954ae,100:0988ae&text=Gracias%20por%20visitar%20mi%20Github!&section=footer&fontColor=f0f0f0&fontSize=40&fontAlign=50&fontAlignY=70&animation=scaleIn&stroke=0f0f0f" width="100%"/>
