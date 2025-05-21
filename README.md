@@ -54,12 +54,12 @@ Tengo conocimientos en desarrollo front-end y back-end.
 
 ## Estadisticas de Github :
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<div>
  <a href="https://github.com/yaqui-sieras">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaqui-sieras&show_icons=true&theme=tokyonight&hide_border=true&locale=es" style="height:11rem;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yaqui-sieras&show_icons=true&theme=tokyonight&hide_border=true&locale=es" style="height:12rem;" />
  </a>
  <a href="https://github.com/yaqui-sieras">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaqui-sieras&theme=tokyonight&hide_border=true&locale=es" style="height:11rem;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaqui-sieras&theme=tokyonight&hide_border=true&locale=es" style="height:12rem;" />
  </a>
 </div>
 
