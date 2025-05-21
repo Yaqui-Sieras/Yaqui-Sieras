@@ -54,8 +54,14 @@ Tengo conocimientos en desarrollo front-end y back-end.
 
 ## Estadisticas de Github :
 
-[![](https://github-readme-stats.vercel.app/api?username=yaqui-sieras&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/yaqui-sieras)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=yaqui-sieras&theme=tokyonight&hide_border=true&locale=es)](https://github.com/yaqui-sieras)
+<div>
+ <a href="https://github.com/yaqui-sieras">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaqui-sieras&show_icons=true&theme=tokyonight&hide_border=true&locale=es" style="height:12rem;" />
+ </a>
+ <a href="https://github.com/yaqui-sieras">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaqui-sieras&theme=tokyonight&hide_border=true&locale=es" style="height:12rem;" />
+ </a>
+</div>
 
 <a href="https://github.com/yaqui-sieras"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yaqui-sieras&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10&locale=es&layout=compact&custom_title=Lenguajes%20más%20usados" width="50%"/></a>
 
