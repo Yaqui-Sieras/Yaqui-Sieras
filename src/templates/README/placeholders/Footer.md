@@ -1,0 +1,1 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0954ae,100:0988ae&text=Gracias%20por%20visitar%20mi%20Github!&section=footer&fontColor=f0f0f0&fontSize=40&fontAlign=50&fontAlignY=70&animation=scaleIn&stroke=0f0f0f" width="100%"/>

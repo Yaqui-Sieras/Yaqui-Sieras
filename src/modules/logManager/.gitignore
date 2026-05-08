@@ -1,0 +1,23 @@
+# ⚙️ Archivos de configuración y dependencias
+node_modules/
+.env
+
+# ⚙️ Configuración de ESLint y Prettier
+.eslintignore
+.eslint.config.js
+.prettierrc
+.prettierignore
+
+# ⚙️ Archivos de configuración de VSCode
+.vscode/
+
+# 📝 Archivos de logs generados automáticamente
+logs/
+*.log
+
+# 🚀 Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# ⚙️ Datos temporales
+*.tmp

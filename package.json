@@ -1,0 +1,22 @@
+{
+  "name": "yaqui-sieras",
+  "version": "1.0.0",
+  "description": "Yaqui-Sieras, README Perfil de GitHub",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "update-readme": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaqui-Sieras/Yaqui-Sieras.git"
+  },
+  "keywords": [],
+  "author": "Yaqui-Sieras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yaqui-Sieras/Yaqui-Sieras/issues"
+  },
+  "homepage": "https://github.com/Yaqui-Sieras/Yaqui-Sieras#readme"
+}
